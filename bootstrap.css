@@ -1,0 +1,17 @@
+.carousel-item active{
+    height: 40px;
+    width: 40%;
+    text-align: center;
+
+}
+.carousel-item{
+    height: 40%;
+    width: 40%;
+    margin: 0;
+    text-align: center;
+    
+}
+.carousel slide{
+    text-align: center;
+}
+

@@ -1,0 +1,104 @@
+/* .link1{
+   float: right;
+   margin: 4px;
+
+}
+.G{
+    display: inline;
+    font-size: 400%;
+    background-color: var(white);
+}
+
+.shift{
+    margin-top: 100px;
+    margin-left: 550px;
+   }
+
+.input{
+   text-align: center;
+  margin-left: 500px;
+  box-shadow: rgb(70, 62, 62) 4px 4px 4px;
+  width: 29%;
+  height: 30px;
+}
+.input 2{
+    text al
+}
+.button{
+    margin-left: 550px;
+    padding-top: 10px;
+
+}
+.row{
+font-size: 800%;
+background-color: chartreuse;
+text-shadow: cyan;
+text-align: center;
+
+}
+/* .image{
+    background-color:transparent;
+    display: flex;
+    margin-left: 550px;
+    width: 200px;
+    height: 50px;
+    justify-content: space-between;
+    margin-top: 10px;
+} */
+
+/* 
+body{
+    background-color:white;
+
+
+}
+
+
+    .error {
+        width: 500px;
+        padding-top: 10px;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        margin: auto;
+        }
+
+
+
+} */
+.Go{
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    right: 20px;
+    border-style: none;
+    
+}
+.coming{
+    background-color: white;
+    width: 400px;
+    /* height: 40%; */
+    padding-left: 50px;
+
+    
+}
+
+.hire{
+    display: flex;
+    /* background-color: gray; */
+    padding-top: 80px;
+    margin-left: 200px;
+}
+#we{
+    color: red;
+   
+}
+body{
+    background-color: gray;
+}
+.work{
+    width: 400px;
+    height: 50%;
+} 
